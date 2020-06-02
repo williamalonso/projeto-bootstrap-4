@@ -1,7 +1,20 @@
 @charset "utf-8";
 
-.fonte-titulo{
+.card-largura {
+    width: 18rem;
+}
+.fonte-titulo {
     font-family: 'Pacifico', cursive;
+}
+.texto-cor-especial {
+    color: darkred;
+}
+.botao-cor-especial {
+    color: white;
+    background-color: darkred;
+}
+.borda-cor-especial {
+    border-color: darkred;
 }
 .imagem-carrossel-um {
     object-fit: cover;
@@ -11,4 +24,9 @@
 .imagem-carrossel-dois {
     object-fit: cover;
     height: 400px;
+}
+.card-posicao-imagem {
+    object-fit: cover;
+    /*object-position: 0 80%;*/
+    height: 200px;
 }
