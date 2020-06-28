@@ -1,13 +1,20 @@
 @charset "utf-8";
 
+
+.cor-icone {
+    color:white;
+}
+.vertical-align {
+    vertical-align: middle!important;
+}
 .card-largura {
-    width: 18rem;
+    max-width: 18rem;
 }
 .fonte-titulo {
     font-family: 'Pacifico', cursive;
 }
 .texto-cor-especial {
-    color: darkred;
+    color: darkred!important;
 }
 .botao-cor-especial {
     color: white;
