@@ -7,14 +7,18 @@
 .vertical-align {
     vertical-align: middle!important;
 }
-.card-largura {
-    max-width: 18rem;
-}
+
 .fonte-titulo {
     font-family: 'Pacifico', cursive;
 }
 .texto-cor-especial {
     color: darkred!important;
+}
+
+/* ===== Card ===== */
+
+.card-largura {
+    max-width: 18rem;
 }
 .botao-cor-especial {
     color: white;
@@ -23,6 +27,32 @@
 .borda-cor-especial {
     border-color: darkred;
 }
+.card-posicao-imagem {
+    object-fit: cover;
+    /*object-position: 0 80%;*/
+    height: 200px;
+}
+
+/* ===== Imagem Quem Somos ===== */
+
+.imagem-quemsomos1 {
+    object-fit: cover;
+    object-position: 10% 50%;
+    height: 200px;
+}
+.imagem-quemsomos2 {
+    object-fit: cover;
+    object-position: 50% 50%;
+    height: 200px;
+}
+.imagem-quemsomos3 {
+    object-fit: cover;
+    object-position: 50% 50%;
+    height: 200px;
+}
+
+/* ===== Imagem do Carrossel ===== */
+
 .imagem-carrossel-um {
     object-fit: cover;
     object-position: 0 80%;
@@ -31,9 +61,4 @@
 .imagem-carrossel-dois {
     object-fit: cover;
     height: 400px;
-}
-.card-posicao-imagem {
-    object-fit: cover;
-    /*object-position: 0 80%;*/
-    height: 200px;
 }
