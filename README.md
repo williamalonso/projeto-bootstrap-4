@@ -12,15 +12,15 @@ Este readme está dividido em:
 
 ## Descrição
 
-Trata-se de uma landing page sobre receitas culinárias desenvolvido com Bootstrap 4.
+Trata-se de uma landing page sobre receitas culinárias desenvolvido com Bootstrap 4 para fins didáticos.
 
 ## Funcionalidades
 
-Na página 'início' temos uma carrossel de imagens com legendas
+Na página 'início' temos uma carrossel de imagens com legendas centralizadas. Também temos os cards de receitas alinhados com Grid, os cards arredondados do 'quem somos' e botões de redes sociais no rodapé da página utilizando os plugins "font-awesome" e "social buttons for bootstrap".
 
 O menu de 'receitas' e 'quem somos' não foram implementados.
 
-Ao clicar no menu 'contato' é disparado um modal com um pequeno formulário, porém o botão de enviar não foi implementado
+Ao clicar no menu 'contato' é disparado um modal com um pequeno formulário, porém o botão de enviar não foi implementado.
 
 ## Como instalar
 
