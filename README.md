@@ -1,8 +1,31 @@
-# Link
-- [Projeto Fruta & Fruto](https://fruta-fruto.vercel.app/)
+## Introdução
 
-# Descrição do projeto
-- Projeto responsivo utilizando Bootstrap 4
+[Projeto Fruta & Fruto](https://fruta-fruto.vercel.app/)
 
-# Imagem do Projeto
+Este readme está dividido em:
+
+- Introdução
+- Descrição
+- Funcionalidades
+- Como instalar
+- Imagem
+
+## Descrição
+
+Trata-se de uma landing page sobre receitas culinárias desenvolvido com Bootstrap 4.
+
+## Funcionalidades
+
+Na página 'início' temos uma carrossel de imagens com legendas
+
+O menu de 'receitas' e 'quem somos' não foram implementados.
+
+Ao clicar no menu 'contato' é disparado um modal com um pequeno formulário, porém o botão de enviar não foi implementado
+
+## Como instalar
+
+Para instalar, basta baixar ou clonar o projeto e abrir o arquivo "index.html" em seu navegador favorito.
+Porém, você também pode acessar o site do projeto [clicando aqui](https://fruta-fruto.vercel.app/)
+
+## Imagem do Projeto
 ![](_imagens/modelo2.png)
