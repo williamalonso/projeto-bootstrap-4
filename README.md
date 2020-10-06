@@ -18,7 +18,7 @@ Trata-se de uma landing page sobre receitas culinárias desenvolvido com Bootstr
 
 Na página 'início' temos uma carrossel de imagens com legendas centralizadas. Também temos os cards de receitas alinhados com Grid, os cards arredondados do 'quem somos' e botões de redes sociais no rodapé da página utilizando os plugins "font-awesome" e "social buttons for bootstrap".
 
-O menu de 'receitas' e 'quem somos' não foram implementados.
+Ao clicar no menu de 'receitas' e 'quem somos' o scroll desce até o respectivo conteúdo (âncora de pontos na página)
 
 Ao clicar no menu 'contato' é disparado um modal com um pequeno formulário, porém o botão de enviar não foi implementado.
 
